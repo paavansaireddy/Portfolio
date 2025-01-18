@@ -1,5 +1,8 @@
 # React JS Portfolio Website
 
+<img width="1512" alt="Portfolio" src="https://github.com/user-attachments/assets/7939fd76-7408-4d23-bf9c-b9a247e7563f" />
+
+
 [🔗Live Demo🔗](https://paavansaireddy.github.io/Portfolio/)
 
 ## Features
