@@ -3,7 +3,7 @@ import "./intro.css";
 import { FaAward } from "react-icons/fa";
 import React from "react";
 import { VscFolderLibrary } from "react-icons/vsc";
-import img from '/Users/paavansai/Downloads/MyPort/src/assets/Paavan.jpg'
+import img from '../../assets/Paavan.jpg'
 
 
 
