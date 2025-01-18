@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.6270ef76.css",
+    "main.js": "/Portfolio/static/js/main.386a486d.js",
+    "static/media/Portfolio.png": "/Portfolio/static/media/Portfolio.36cea34054193f80eb52.png",
+    "static/media/Disease_Pred.png": "/Portfolio/static/media/Disease_Pred.e1899cd4ec1cd5e2eeec.png",
+    "static/media/Cold_Email.png": "/Portfolio/static/media/Cold_Email.06c1f4198a1a8d5dfb3c.png",
+    "static/media/Airline_Passenger.png": "/Portfolio/static/media/Airline_Passenger.b699f6a92ac10d9118c5.png",
+    "static/media/Sentiment.png": "/Portfolio/static/media/Sentiment.b699f6a92ac10d9118c5.png",
+    "static/media/Guassian Splat.jpg": "/Portfolio/static/media/Guassian Splat.5e5d610fd30c3bf3c8bf.jpg",
+    "static/media/Paavan.jpg": "/Portfolio/static/media/Paavan.d9561708913eb0e8c46a.jpg",
+    "static/media/PaavanaBandi_ResumeSD.pdf": "/Portfolio/static/media/PaavanaBandi_ResumeSD.d3a08f33f7bdaf7cab40.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.6270ef76.css.map": "/Portfolio/static/css/main.6270ef76.css.map",
+    "main.386a486d.js.map": "/Portfolio/static/js/main.386a486d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6270ef76.css",
+    "static/js/main.386a486d.js"
+  ]
+}
